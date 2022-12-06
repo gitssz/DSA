@@ -12,15 +12,6 @@ public class Leetcode1 {
     }
 static  void palindrome(int n)
 {;
-    /*ArrayList<Integer> array= new ArrayList<>();
-    while(temp>0)
-    {
-        int rem=temp%10;
-        temp/=10;
-        array.add(rem);
-    }
-    //arraylist numbers->combine somehow  and checl with original number*/
-
 
 }
     static void isPrime(int n)
